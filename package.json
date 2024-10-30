@@ -1,0 +1,12 @@
+{
+    "name": "produtos-atv",
+    "version": "1.0.0",
+    "description": "Projeto de criação de produtos",
+    "main": "controle.js",
+    "scripts": {
+        "start": "node controle.js"
+    },
+    "dependencies": {
+        "ejs": "^3.1.10"
+    }
+}
